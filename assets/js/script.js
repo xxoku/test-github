@@ -1,2 +1,7 @@
 function saludar(){
-    alert ("hola")}
+    alert ("hola");
+}
+
+function chao(){
+    alert ("chaoo");
+}
